@@ -8,3 +8,4 @@ R 語言基礎 (1)
 
 教材  : https://github.com/ywchiu/rbasic/tree/master/course1
 
+程式碼: http://rpubs.com/ywchiu/24826
