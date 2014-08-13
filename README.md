@@ -6,5 +6,5 @@ R 語言基礎 (1)
 
 密碼  : iiiRCourse
 
-教材  : course1
+教材  : https://github.com/ywchiu/rbasic/tree/master/course1
 
