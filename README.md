@@ -1,13 +1,13 @@
-R ½Òµ{
+R èª²ç¨‹
 ======
-R »y¨¥°òÂ¦ (1)
+R èªè¨€åŸºç¤ (1)
 
-§ë¼v¤ù: https://www.slideshare.net/secret/FCFoej6UqizV5g
+æŠ•å½±ç‰‡: https://www.slideshare.net/secret/FCFoej6UqizV5g
 
-±K½X  : iiiRCourse
+å¯†ç¢¼  : iiiRCourse
 
-±Ğ§÷  : https://github.com/ywchiu/rbasic/tree/master/course1
+æ•™æ  : https://github.com/ywchiu/rbasic/tree/master/course1
 
-µ{¦¡½X: http://rpubs.com/ywchiu/24826
+ç¨‹å¼ç¢¼: http://rpubs.com/ywchiu/24826
 
 test
