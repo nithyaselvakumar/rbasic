@@ -21,3 +21,17 @@ R ETL
 教材  : https://github.com/ywchiu/rbasic/tree/master/course2
 
 程式碼: http://rpubs.com/ywchiu/25050
+
+
+
+R Statistics
+
+投影片: https://www.slideshare.net/secret/4F4vHVCoOcSmWt
+
+密碼  : iiiRCourse
+
+教材  : https://github.com/ywchiu/rbasic/tree/master/course3
+
+程式碼: http://rpubs.com/ywchiu/25162
+
+
