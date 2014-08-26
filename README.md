@@ -35,3 +35,12 @@ R Statistics
 程式碼: http://rpubs.com/ywchiu/25162
 
 
+R Analysis
+
+投影片: https://www.slideshare.net/secret/kYXjK0GyneZUur
+
+密碼  : iiiRCourse
+
+教材  : https://github.com/ywchiu/rbasic/tree/master/course4
+
+程式碼: http://rpubs.com/ywchiu/27127
