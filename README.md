@@ -1,5 +1,10 @@
 R 課程
 ======
+R 201503 使用投影片
+https://www.slideshare.net/secret/9Hy9RLbXIBmQR
+
+
+
 R 語言基礎
 
 投影片: https://www.slideshare.net/secret/FCFoej6UqizV5g
